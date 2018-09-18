@@ -89,7 +89,7 @@ module.exports = "h1 {\n    font-size: 1.2em;\n    color: #999;\n    margin-bott
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<h1>{{ title }}</h1>\n<nav>\n    <a routerLink=\"/dashboard\">Dashboard</a>\n    <a routerLink=\"/heroes\">Heroes</a>\n</nav>\n<router-outlet></router-outlet>\n<app-messages></app-messages>\n"
+module.exports = "<h1>{{ title }}</h1>\n<nav>\n    <a routerLink=\"/dashboard\">Dashboard</a>\n    <a routerLink=\"/heroes\">Heroes</a>\n</nav>\n<router-outlet></router-outlet>\n<app-messages></app-messages>"
 
 /***/ }),
 
